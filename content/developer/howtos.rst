@@ -15,3 +15,4 @@ Tutorials
     howtos/company
     howtos/accounting_localization
     howtos/translations
+    howtos/scss_tips
